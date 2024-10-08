@@ -1,0 +1,11 @@
+{
+	"id": "canvas-paste",
+	"name": "CanvasPaste",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "CanvasPaste.",
+	"author": "giosullutrone",
+	"authorUrl": "",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
